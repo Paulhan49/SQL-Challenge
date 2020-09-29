@@ -9,7 +9,7 @@ Data Engineering
 --------------------------------------------------------------------
 
 Data Analysis
-
+-----------------------
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
@@ -33,12 +33,14 @@ Push the above changes to GitHub.
 
 
 Instructions
+-----------------------------------------------------------------------------------
 
 Data Modeling
+-------------------------------
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
 Data Engineering
-
+---------------------------------------------------------------------
 
 Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 
@@ -52,6 +54,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 Data Analysis
+---------------
 Once you have a complete database, do the following:
 
 
@@ -81,6 +84,7 @@ In descending order, list the frequency count of employee last names, i.e., how 
 
 
 Bonus (Optional)
+----------------------------------------------
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 
@@ -108,4 +112,5 @@ Create a bar chart of average salary by title.
 
 
 Epilogue
+----------------------------
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
